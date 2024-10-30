@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pizza Calculator Application</string>
+
+    <string name="number_of_people">Number of People?</string>
+    <string name="hint_people">Number of People</string>
+    <string name="hungriness">How hungry is everyone?</string>
+    <string name="radio_light">Light</string>
+    <string name="radio_medium">Medium</string>
+    <string name="radio_ravenous">Ravenous</string>
+    <string name="pizza">Pizza</string>
+    <string name="size_of_pizza">Size of Pizza:</string>
+    <string name="personal_size">6\'\' Personal\n(+RM 1.00)</string>
+    <string name="regular_size">9\'\' Regular\n(+RM 2.00)</string>
+    <string name="large_size">12\'\' Large\n(+RM 2.50)</string>
+    <string name="xlarge_size">15\'\' XLarge\n(+RM 3.00)</string>
+    <string name="number_of_slice">Number of Slices per Pizza:</string>
+    <string name="min_slice">2 Slices</string>
+    <string name="four_slice">4 Slices</string>
+    <string name="six_slice">6 Slices</string>
+    <string name="eight_slice">8 Slices</string>
+    <string name="ten_slice">10 Slices</string>
+    <string name="max_slice">12 Slices</string>
+    <string-array name="addons">
+        <item name="cheese">Cheese(RM8.50)</item>
+        <item name="tuna">Tuna(RM7.60)</item>
+        <item name="beef">Beef(RM10.20)</item>
+        <item name="lamb">Lamb(RM8.20)</item>
+        <item name="chicken">Chicken(RM6.90)</item>
+        <item name="onion_with_sauce">Onion with Extra Tomato Sauce(RM2.40)</item>
+        <item name="hot_pepper">Green and Hot Pepper(RM3.20)</item>
+        <item name="prawn">Prawn(RM9.50)</item>
+        <item name="ikan_bilis">Ikan Bilis(RM4.10)</item>
+        <item name="ripe_olives_with_beef">Ripe Olives with beef(RM11.70)</item>
+    </string-array>
+    <string name="button_calculate">Calculate!</string>
+    <string name="total_pizza_need">Total Pizzas Needed: </string>
+    <string name="total_cost">Total Cost: </string>
+    <string name="init_value_pizza_need">0</string>
+    <string name="init_value_cost">RM 0.00</string>
+</resources>
